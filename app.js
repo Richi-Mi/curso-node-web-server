@@ -12,7 +12,7 @@ hbs.registerPartials(__dirname + '/views/partials', (err) => {
 })
 const options = {
     nombre: 'Jose Ricardo Mendoza Castañeda',
-    titulo: 'Mi primer Servidor Web'
+    titulo: 'Pagina WEB osiosi'
 }
 //Middleware.- Funcion que se ejecuta antes de hacer cualquier otra cosa
 //Servir contenido estatico
